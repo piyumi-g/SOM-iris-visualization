@@ -3,6 +3,9 @@
 # Anaconda3 5.2.0 (Python 3.6.5)
 
 # ==================================================================
+# Visualization Outputs are found in "outputs" folder.
+# Figure_1 and Figure_2
+# ==================================================================
 
 import numpy as np
 import matplotlib.pyplot as plt
